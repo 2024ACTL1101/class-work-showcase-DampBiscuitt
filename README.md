@@ -5,20 +5,9 @@
 
 # Introduction to Actuarial Studies 
 
-_"Tell me and I forget. Teach me and I remember. Involve me and I learn" - Benjamin Franklin_
 
 ---
 ![Quest Guide](quest.jpg)
-
-### Congrats on completing the ACTL1101!
-
->Now it's time to build your own website to showcase your work.  
->To create a website on GitHub Pages to showcase your work is very easy.
-
-This is written in markdown language. 
->
-* Click [link](https://classroom.github.com/a/urlUeIOS) to accept your assignment.
-
 
 * [Probability](probability.md)
 * [Financial Mathematics](financial_math.md)
@@ -30,15 +19,10 @@ This is written in markdown language.
 * [Banking and ERM](banking.md)
 * Coding Assignment: [Algorithmic Trading](algotrading.md) <- filled this
 * Coding Assignment: [CAPM Model](capm.md) <- filled this
-
-
-
-
+  
 ---
 **Testimonial:**
 
-**John Doe:** (Change to your name)
+**Sandy Tran:** (Change to your name)
 
-Throughout ACTL1101, I have mastered the topics listed in principles of actuarial science, and the coding assignment work is mine. I feel much more prepared for my future career.
-
-😄😄😄
+I really enjoyed this course! I had quite a bit of engaging content that opened my eyes to the world of actuarial studies. The lectures were well-structured and the concepts were explained clearly (thanks Xiao Xu and Peter Lee!). I appreciated the practical examples and real-world applications incorporated into the lessons, which helped solidify my understanding. The assignments and projects were challenging yet rewarding, providing a great opportunity to apply what we learned. The instructors were supportive and always available to help with any questions. Overall, I feel more confident in my foundational knowledge of actuarial studies and am excited to delve deeper into this field. Highly recommend this course to anyone interested in actuarial science!
